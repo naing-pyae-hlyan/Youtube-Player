@@ -1,8 +1,6 @@
 # YoutubePlayer
-
-![ScreenShot](home.png)
-![ScreenShot](dialog.png)
-![ScreenShot](video.png)
 <p>
-    <img src="home.png" width="220" height="240" />
+    <img src="home.png" width="247" height="440" />
+    <img src="dialog.png" width="247" height="440" />
+    <img src="video.png" width= "247" height="440" />
 </p>
